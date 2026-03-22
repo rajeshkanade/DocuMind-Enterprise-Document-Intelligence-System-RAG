@@ -1,0 +1,66 @@
+CSV Questions
+-----------------------
+Which employees work in the Engineering department?
+
+Who has the highest salary?
+
+List all employees with performance rating A.
+
+When did Diana Patel join the company?
+
+What is the average salary of all employees?
+
+Which department has the most employees?
+
+Who joined most recently?
+
+What is Bob Smith’s salary?
+
+Give details of employees in the HR department.
+
+Summarize employee performance based on ratings.
+
+TXT Questions
+----------------------
+
+List all employees in the Engineering department.
+
+Who joined the earliest?
+
+What is the salary of Charlie Lee?
+
+Which employees have performance rating A?
+
+Give a brief overview of all employees.
+
+Who has the lowest salary?
+
+How many employees are in each department?
+
+Provide details for employees with salary above 80,000.
+
+List employees who joined after 2021.
+
+Summarize employees in Finance.
+
+DOCX Questions
+-------------------------
+What department does Alice Johnson work in?
+
+What is Alice Johnson’s salary and performance rating?
+
+When did Alice Johnson join the company?
+
+Give a summary of all employee info in this document.
+
+List employees in HR department.
+
+Who has the highest salary in this document?
+
+Provide performance rating for Alice Johnson.
+
+Which employees joined in 2021?
+
+Summarize salaries of all employees.
+
+What is the overall performance of HR employees?

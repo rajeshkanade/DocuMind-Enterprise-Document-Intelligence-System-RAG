@@ -1,0 +1,14 @@
+langchain 
+langchain-community 
+langchain-openai 
+chromadb 
+openai 
+python-dotenv 
+streamlit 
+pypdf
+HuggingFace
+sentence-transformers
+python-dotenv
+rank-bm25>=0.2.2
+ollama
+langchain_ollama

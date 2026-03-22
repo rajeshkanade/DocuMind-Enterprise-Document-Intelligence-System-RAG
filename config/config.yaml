@@ -1,0 +1,23 @@
+# LLM Configuration
+llm:
+  provider: "openai"  # or "ollama" for local
+  model: "gpt-4o-mini"
+  temperature: 0.7
+  max_tokens: 1000
+
+# Embedding Configuration
+embedding:
+  model: "text-embedding-3-small"
+  chunk_size: 1000
+  chunk_overlap: 200
+
+# Vector Store
+vector_store:
+  type: "chromadb"
+  collection_name: "documents"
+  persist_directory: "./chroma_db"
+
+# Retrieval
+retrieval:
+  top_k: 5
+  search_type: "similarity"
